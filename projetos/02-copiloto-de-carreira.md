@@ -6,6 +6,8 @@ Agente de IA especializado em impulsionar o posicionamento profissional e destra
 
 Nível de detalhe: apenas arquitetura e metodologia. Nenhum prompt de produção ou dado sensível é reproduzido aqui.
 
+**[→ Ver demo ao vivo (Linke)](https://claude.ai/code/artifact/85a30540-1473-4c3b-97e7-e177fae465ee)** — versão pública e genérica desta metodologia, publicada como Claude Artifact. 100% client-side (sem servidor, sem login), com os mesmos módulos descritos abaixo prontos para qualquer pessoa usar.
+
 ### Arquitetura
 
 Desenvolvido com Claude (Anthropic) como uma Agent Skill dedicada — persona, tom de voz, diretrizes operacionais e regras de negócio condicionais versionadas em arquivos Markdown/YAML — capaz de:
