@@ -21,6 +21,7 @@ Importante: por política de confidencialidade, nenhum prompt de produção, dad
 | Ecossistema de Assistentes de IA Generativa | 4 assistentes de IA (LLM + RAG) para eliminar gargalos operacionais — +30% de produtividade | [ver projeto](./projetos/01-ecossistema-assistentes-ia.md) |
 | Copiloto de Carreira Orientado por IA | Agent Skill que aplica Governança de Dados ao próprio processo de recolocação profissional | [ver projeto](./projetos/02-copiloto-de-carreira.md) · [demo ao vivo (Linke)](https://claude.ai/code/artifact/85a30540-1473-4c3b-97e7-e177fae465ee) |
 | Framework de Engenharia de Prompts & Automação Multi-IA | Framework portátil (ChatGPT, Gemini, Claude) de módulos reutilizáveis para engenharia de prompts | [ver projeto](./projetos/03-framework-prompt-engineering.md) |
+| Kit "IA de menos" | 4 prompts para estruturar um processo com IA, da receita de bolo ao diretor que coordena especialistas | [baixar o kit](./ia-de-menos/) |
 
 ---
 
