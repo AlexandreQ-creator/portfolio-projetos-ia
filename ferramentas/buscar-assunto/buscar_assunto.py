@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Procura um assunto em todas as sessoes de agentes de IA do usuario (so leitura).
+"""Procura um assunto em todas as sessoes de agentes de IA do usuario (so le as sessoes;
+grava apenas o arquivo de pesquisa, se pedido na opcao 4 do menu).
 
 Fontes (caminho inexistente e ignorado em silencio):
   - Claude Code (CLI/VS Code): ~/.claude/projects/*/*.jsonl, deduplicado pelo id
@@ -566,7 +567,7 @@ def menu(entrada=input, saida=print, home=HOME, raiz=RAIZ, progresso=None):
 
 
 def main(argv=None):
-    ap = argparse.ArgumentParser(description="Busca um assunto nas sessoes de agentes de IA (so leitura).")
+    ap = argparse.ArgumentParser(description="Busca um assunto nas sessoes de agentes de IA (so le as sessoes; o menu grava o arquivo de pesquisa so na opcao 4).")
     ap.add_argument("padrao", nargs="*",
                     help="regex sem distincao de maiusculas/acentos; sem padrao, abre o menu")
     ap.add_argument("--desde", default="", help="AAAA-MM-DD")
