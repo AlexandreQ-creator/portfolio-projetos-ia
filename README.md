@@ -22,12 +22,13 @@ Importante: por política de confidencialidade, nenhum prompt de produção, dad
 | Copiloto de Carreira Orientado por IA | Agent Skill que aplica Governança de Dados ao próprio processo de recolocação profissional | [ver projeto](./projetos/02-copiloto-de-carreira.md) · [demo ao vivo (Linke)](https://claude.ai/code/artifact/85a30540-1473-4c3b-97e7-e177fae465ee) |
 | Framework de Engenharia de Prompts & Automação Multi-IA | Framework portátil (ChatGPT, Gemini, Claude) de módulos reutilizáveis para engenharia de prompts | [ver projeto](./projetos/03-framework-prompt-engineering.md) |
 | Kit "IA de menos" | 4 prompts para estruturar um processo com IA, da receita de bolo ao diretor que coordena especialistas | [baixar o kit](./ia-de-menos/) |
+| Servidor caseiro em Linux operado com agentes de IA | PC antigo vira servidor da família (Jellyfin, Immich, LLM local) administrado com agentes de IA sob regras de verificação: risco e fonte em todo comando, conferência por hash e auditoria de sessão | [ver projeto](./projetos/04-servidor-caseiro-linux-ia.md) · [código: buscar-assunto](./ferramentas/buscar-assunto/) |
 
 ---
 
 ## Stack e competências aplicadas
 
-Prompt Engineering · RAG (Retrieval-Augmented Generation) · LLMs (ChatGPT, Gemini, Claude) · IA Agêntica · Governança de Dados (DAMA-DMBOK) · Governança de IA · KNIME · Python · SQL · SAP MM/S4HANA · Power BI
+Prompt Engineering · RAG (Retrieval-Augmented Generation) · LLMs (ChatGPT, Gemini, Claude) · IA Agêntica · Claude Code (skills, subagentes, hooks) · Governança de Dados (DAMA-DMBOK) · Governança de IA · KNIME · Python · SQL · SAP MM/S4HANA · Power BI · Linux (Debian)
 
 ---
 
